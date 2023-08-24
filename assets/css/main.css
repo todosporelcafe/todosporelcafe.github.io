@@ -5622,18 +5622,23 @@ h6 {
 .team__box {
   border: 1px solid #E2DFDD;
   border-radius: 10px;
-  padding: 38px 28px;
+  padding: 0px 0px;
   -webkit-transition: 0.4s;
   -o-transition: 0.4s;
   transition: 0.4s;
+  height: 100%;
 }
 .team__box .thumb {
   position: relative;
-  min-height: 310px;
+  min-height: 240px;
+}
+.team__box .content {
+  position: relative;
+  bottom: 0px;
 }
 .team__box .thumb img {
   border-radius: 60px 60px 60px 0px;
-  min-height: 310px;
+  /* min-height: 310px; */
   object-fit: cover;
   width: 100%;
 }
