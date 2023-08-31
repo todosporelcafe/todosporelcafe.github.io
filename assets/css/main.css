@@ -4433,6 +4433,40 @@ h6 {
   text-transform: uppercase;
   color: #C7A17A;
 }
+/* shape area css */
+
+.shapes .shape {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  left: 0;
+}
+
+/* .shapes .shape { */
+/*   display: inline-block; */
+/*   position: absolute; */
+/*   top: 0; */
+/*   width: 100%; */
+/*   left: 0; */
+/* } */
+.shapes {
+    z-index: 0;
+}
+.shapes .shape__1 {
+  bottom: 80px;
+  left: 0;
+  right: auto;
+  top: auto;
+  width: auto;
+}
+.shapes .shape__2 {
+  bottom: 80px;
+  left: auto;
+  right: 0;
+  top: auto;
+  width: auto;
+}
 
 /* blog css */
 .blog__area .shape {
