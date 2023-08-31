@@ -5758,6 +5758,12 @@ h6 {
   border-radius: 0px 60px 60px 60px;
 }
 
+/* carousel index css */
+.carousel .team__box {
+  border: 0px;
+  border-radius: 0px;
+}
+
 /* story css */
 .story-list {
   position: relative;
