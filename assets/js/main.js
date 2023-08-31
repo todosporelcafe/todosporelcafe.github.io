@@ -145,6 +145,17 @@
 		dots: false,
 		navText: ["<i class='fa fa-long-arrow-left'></i>", "<i class='fa fa-long-arrow-right'></i>"],
 		responsiveClass:true,
+        responsive: {
+            0:{
+                items:1,
+            },
+            600:{
+                items:2,
+            },
+            1000:{
+                items:2,
+            }
+        }
 	});
 
 	//  product popup
