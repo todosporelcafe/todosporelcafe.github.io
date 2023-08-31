@@ -8103,6 +8103,9 @@ html .ui-button.ui-state-disabled:active {
   color: #ffffff;
   font-size: 18px;
 }
+.footer__logo--content img {
+  width: 400px;
+}
 .footer__menu-area {
   padding-top: 30px;
   border-top: 1px solid #32323D;
