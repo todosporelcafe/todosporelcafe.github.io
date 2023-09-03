@@ -5764,6 +5764,11 @@ h6 {
   border-radius: 0px;
 }
 
+.carousel .team__box .content h4{
+    color: #ffffff;
+}
+
+
 /* story css */
 .story-list {
   position: relative;
