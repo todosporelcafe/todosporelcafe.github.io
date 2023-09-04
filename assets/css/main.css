@@ -3865,7 +3865,9 @@ h6 {
   }
 }
 .about__left--2 .big {
-  max-width: inherit;
+  max-width: 518px;
+  border-radius: 50%;
+  filter: drop-shadow(10px 10px 20px rgba(0, 0, 0, 0.5));
 }
 @media (max-width: 767px) {
   .about__left--2 .big {
