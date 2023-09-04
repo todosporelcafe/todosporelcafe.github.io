@@ -3877,6 +3877,9 @@ h6 {
 .about__left--2 .small {
   left: -130px;
   bottom: 0px;
+  background-color: white;
+  border-radius: 50%;
+  max-width: 261px;
 }
 @media (max-width: 1199px) {
   .about__left--2 .small {
@@ -5518,6 +5521,7 @@ h6 {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  min-height: 342px;
 }
 @media (max-width: 767px) {
   .wcu__item {
@@ -5586,6 +5590,7 @@ h6 {
 .best-coffe__area {
   padding-top: 70px;
   padding-bottom: 75px;
+  margin-bottom: 120px;
 }
 @media (max-width: 767px) {
   .best-coffe__area .pl-35 {
@@ -5603,6 +5608,8 @@ h6 {
   top: 0;
   height: 100%;
   width: 50%;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
 }
 @media (max-width: 767px) {
   .best-coffe__bg {
