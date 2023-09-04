@@ -142,7 +142,7 @@
         stagePadding: 60,
         autoplay: true,
         autoplayTimeout: 3000,
-        // autoplayHoverPause: true,
+        autoplayHoverPause: true,
 		slideSpeed: 2400,
         slideBy: 5,
 		nav: true,
