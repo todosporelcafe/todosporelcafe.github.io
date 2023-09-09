@@ -5673,7 +5673,7 @@ h6 {
 }
 .team__box .thumb {
   position: relative;
-  min-height: 240px;
+  min-height: 165px;
 }
 .team__box .content {
   position: relative;
@@ -8200,6 +8200,10 @@ html .ui-button.ui-state-disabled:active {
 }
 .footer__top--3 {
   border-top: 1px solid #32323D;
+}
+
+a {
+  text-decoration: none;
 }
 
 /*# sourceMappingURL=main.css.map */
