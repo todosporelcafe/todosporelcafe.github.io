@@ -2515,6 +2515,17 @@ h6 {
   color: #000;
 }
 
+
+.content-social > a > i{
+  font-size: 33px;
+  color: #808080;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  width: 35px;
+  height: 35px;
+}
+
 /* Button css */
 .site-btn {
   font-size: 12px;
