@@ -114,7 +114,7 @@
 		slideSpeed: 3000,
 		nav: true,
 		dots: false,
-		navText: ["<i class='fa fa-long-arrow-left'></i>", "<i class='fa fa-long-arrow-right'></i>"],
+		navText: ["<i class='fa fa-long-arrow-right'></i>", "<i class='fa fa-long-arrow-right'></i>"],
 		responsiveClass:true,
 		responsive: {
 			0: {
